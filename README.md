@@ -1,2 +1,4 @@
-# PyEcon
-Python for Economist
+PyEcon
+=======
+
+Python for Economists
