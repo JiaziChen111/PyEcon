@@ -1,0 +1,1127 @@
+{
+    "03e69262419443f08de7955622d4acff": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "601a1f1e5b864f8e8b4d010c71100133": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_03e69262419443f08de7955622d4acff",
+            "min": 23,
+            "value": 33,
+            "description": "現在年齢"
+        }
+    },
+    "e625c7fa3cc1405dace4a81fa71c6261": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "05bde98ffe604730bbf4e8272f4b364e": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_e625c7fa3cc1405dace4a81fa71c6261",
+            "min": 50,
+            "max": 80,
+            "value": 50,
+            "description": "残存余命"
+        }
+    },
+    "154b14c314dc43c5b8d7f8563483f0ed": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "4c9b2b2ca63f44f78af585ae79b0da64": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_154b14c314dc43c5b8d7f8563483f0ed",
+            "children": [
+                "IPY_MODEL_601a1f1e5b864f8e8b4d010c71100133",
+                "IPY_MODEL_05bde98ffe604730bbf4e8272f4b364e",
+                "IPY_MODEL_79fbc149653043e0bb28369058536712"
+            ]
+        }
+    },
+    "0d8a5636fb4b443c8900ab0f91d56369": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "79fbc149653043e0bb28369058536712": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_0d8a5636fb4b443c8900ab0f91d56369",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "3116fd6720f7487ca528b9992967ba8a": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "d4b85d74174945e2a3831cc476b50a3a": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_3116fd6720f7487ca528b9992967ba8a",
+            "value": 28,
+            "description": "結婚時の本人年齢（予定なしは0）"
+        }
+    },
+    "2cb7573dece442feb604ca0c34eaef8a": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "a87872b02d4d481b8738b028579ebd7a": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_2cb7573dece442feb604ca0c34eaef8a",
+            "max": 30,
+            "description": "配偶者との年齢差（本人－配偶者）"
+        }
+    },
+    "b51caa52318c4776b2a67cbac4309429": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "d1815e44c743410c955bdaca2f2b7bee": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_b51caa52318c4776b2a67cbac4309429",
+            "children": [
+                "IPY_MODEL_d4b85d74174945e2a3831cc476b50a3a",
+                "IPY_MODEL_a87872b02d4d481b8738b028579ebd7a",
+                "IPY_MODEL_924485e0d11b43f9830d5f7e10868191"
+            ]
+        }
+    },
+    "a8359e344d4b47e0ab6daa070c86eddd": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "924485e0d11b43f9830d5f7e10868191": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_a8359e344d4b47e0ab6daa070c86eddd",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "4773ffa6c0ce408b86067047019d58a4": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "f5f588be8ad142a483e3081f52e4e464": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_4773ffa6c0ce408b86067047019d58a4",
+            "max": 5,
+            "value": 2,
+            "description": "子どもの数（予定含む）"
+        }
+    },
+    "be4e7ebb4fa4461db52e21365be08329": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "f234ed1cba39444eb4c70f0a0a7b7234": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_be4e7ebb4fa4461db52e21365be08329",
+            "children": [
+                "IPY_MODEL_f5f588be8ad142a483e3081f52e4e464",
+                "IPY_MODEL_f38e7af07012422db4330d742733dfcd"
+            ]
+        }
+    },
+    "08ffbdd14672424c9815f961fab85916": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "f38e7af07012422db4330d742733dfcd": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_08ffbdd14672424c9815f961fab85916",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "542a901004b8428cbdbf831b84d662fa": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "0e042f97d0b24ac398009d07a11baae6": {
+        "model_name": "ToggleButtonModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_542a901004b8428cbdbf831b84d662fa",
+            "description": "クリック",
+            "value": true
+        }
+    },
+    "3f4e0bb042844c9284b397edc0a8376c": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "c3b5452b205d4c3b982f9c3cd2e044a4": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_3f4e0bb042844c9284b397edc0a8376c",
+            "children": [
+                "IPY_MODEL_0e042f97d0b24ac398009d07a11baae6",
+                "IPY_MODEL_2255125c45114e939f8098b7f62dfd42"
+            ]
+        }
+    },
+    "2f6ae85945a14851b17502f872558d81": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "2255125c45114e939f8098b7f62dfd42": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_2f6ae85945a14851b17502f872558d81",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "c7f22316136042e4a5e212a6c09c32fb": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "e02b63fda0404b0fb26ada27fd2b4667": {
+        "model_name": "ToggleButtonModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_c7f22316136042e4a5e212a6c09c32fb",
+            "description": "クリック",
+            "value": true
+        }
+    },
+    "60a53468ffad4d17a9615c00ff43dd69": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "29e6039e91174abbb5b86ebc7d5bcda6": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_60a53468ffad4d17a9615c00ff43dd69",
+            "children": [
+                "IPY_MODEL_e02b63fda0404b0fb26ada27fd2b4667",
+                "IPY_MODEL_73647f7f9a874052ab8da93a0b5c6462"
+            ]
+        }
+    },
+    "4c45c70c958d4d32bafae9c8133fadec": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "73647f7f9a874052ab8da93a0b5c6462": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_4c45c70c958d4d32bafae9c8133fadec",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "cbce5518b4a74978a69e2924a78ece14": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "206ba244710b41b2aa1c679d2d0aee49": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_cbce5518b4a74978a69e2924a78ece14",
+            "min": 5,
+            "max": 200,
+            "value": 30,
+            "description": "子育て費用と家賃を除く月間支出（万円）"
+        }
+    },
+    "88829ac589924776abde37ba9a48092c": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "2596ad3d06d54ad49c0225137e51bb04": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_88829ac589924776abde37ba9a48092c",
+            "max": 10000,
+            "step": 10,
+            "description": "住宅以外のローン現在残高（万円）"
+        }
+    },
+    "00e76530587d4ef3a66a1c0f8c9da6cc": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "b7828d3425914f4d932d2c79a40efa38": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_00e76530587d4ef3a66a1c0f8c9da6cc",
+            "children": [
+                "IPY_MODEL_206ba244710b41b2aa1c679d2d0aee49",
+                "IPY_MODEL_2596ad3d06d54ad49c0225137e51bb04",
+                "IPY_MODEL_2eb50e946f7e4edc8b4d9ef993b642ae"
+            ]
+        }
+    },
+    "6fafb3e59c0b44d4b488f8e4f486de56": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "2eb50e946f7e4edc8b4d9ef993b642ae": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_6fafb3e59c0b44d4b488f8e4f486de56",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "887f5ffbcbe140599d03b668e76eaccc": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "540e5e84a56748169e9f712fd63c7fa4": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_887f5ffbcbe140599d03b668e76eaccc",
+            "value": 37,
+            "description": "住宅購入時の本人年齢（予定なしは0）"
+        }
+    },
+    "b7c3056a65964564b1af40060b50eb04": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "2ba9f94c568c464d831bce0e209bd630": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_b7c3056a65964564b1af40060b50eb04",
+            "max": 200,
+            "value": 15,
+            "description": "居住用家賃（月間、万円）"
+        }
+    },
+    "a61442505fef498a921a264e62be1f05": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "f197d253e71546dd857b18893f654e56": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_a61442505fef498a921a264e62be1f05",
+            "max": 30000,
+            "value": 4000,
+            "step": 100,
+            "description": "住宅（保有or予定）・現在評価額（万円）"
+        }
+    },
+    "beec0ede96304fee833a29bc3630020c": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "8e76302166784950877d6dd261563227": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_beec0ede96304fee833a29bc3630020c",
+            "max": 30000,
+            "step": 100,
+            "description": "住宅ローン現在高（万円）"
+        }
+    },
+    "8ec5403669544c728fc04a707bb0677f": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "af438ec47e0747aab49f25f68c803c9b": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_8ec5403669544c728fc04a707bb0677f",
+            "children": [
+                "IPY_MODEL_540e5e84a56748169e9f712fd63c7fa4",
+                "IPY_MODEL_2ba9f94c568c464d831bce0e209bd630",
+                "IPY_MODEL_f197d253e71546dd857b18893f654e56",
+                "IPY_MODEL_8e76302166784950877d6dd261563227",
+                "IPY_MODEL_431134e0f43045d5898095b3eab5cf8c"
+            ]
+        }
+    },
+    "7d843641a80e45558733a8371804b422": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "431134e0f43045d5898095b3eab5cf8c": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_7d843641a80e45558733a8371804b422",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "3c7f01c3eceb4ea283354b78f65e0e21": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "356ce617434843cf9d3fadf711541448": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_3c7f01c3eceb4ea283354b78f65e0e21",
+            "min": 18,
+            "max": 30,
+            "value": 24,
+            "description": "就職開始年齢"
+        }
+    },
+    "c92187e701f84999aef7109d43ccd032": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "36549bee592743b8b0f98c7ad2b5e637": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_c92187e701f84999aef7109d43ccd032",
+            "min": 55,
+            "max": 70,
+            "value": 60,
+            "description": "退職金　受取年齢"
+        }
+    },
+    "cf0c380a474e4201a7e1be3da336925a": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "157df24668aa4c91b4521fe7c60369d7": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_cf0c380a474e4201a7e1be3da336925a",
+            "children": [
+                "IPY_MODEL_356ce617434843cf9d3fadf711541448",
+                "IPY_MODEL_36549bee592743b8b0f98c7ad2b5e637",
+                "IPY_MODEL_6cc7aee752c64c0fa8c2a4785d41cb3e"
+            ]
+        }
+    },
+    "b4a9e39d95124c248ba4b8b8332a62a9": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "6cc7aee752c64c0fa8c2a4785d41cb3e": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_b4a9e39d95124c248ba4b8b8332a62a9",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "007b0224d71e4d758de5488841c5effa": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "343008d49f0f4f8e8f9662053c01d0f0": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_007b0224d71e4d758de5488841c5effa",
+            "max": 4000,
+            "value": 500,
+            "step": 50,
+            "description": "現役時代の平均年収（本人、万円）"
+        }
+    },
+    "8024e0f51ff84f82bb014aca23e95f3e": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "2d263a8143c646a2808d6243520c070f": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_8024e0f51ff84f82bb014aca23e95f3e",
+            "max": 4000,
+            "value": 500,
+            "step": 50,
+            "description": "同（配偶者、万円）"
+        }
+    },
+    "33d5d8be8cd64233820f11cf6e3261da": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "f5bf60961c3c407e844f9fa1e0919b75": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_33d5d8be8cd64233820f11cf6e3261da",
+            "children": [
+                "IPY_MODEL_343008d49f0f4f8e8f9662053c01d0f0",
+                "IPY_MODEL_2d263a8143c646a2808d6243520c070f",
+                "IPY_MODEL_598d4500c3634927905a7dc6ca96d66f"
+            ]
+        }
+    },
+    "31f58e24e1e149309fee0b986492d86c": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "598d4500c3634927905a7dc6ca96d66f": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_31f58e24e1e149309fee0b986492d86c",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "aba77fdb937748958bd78dfeed74e417": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "ba82d947063a45779a6c86ce7ed7fd68": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_aba77fdb937748958bd78dfeed74e417",
+            "max": 10000,
+            "value": 300,
+            "step": 50,
+            "description": "現在の預金残高（万円）"
+        }
+    },
+    "699e3b40ef234317aed8733d062d65dd": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "2aca42887d2544718e761e2954b8a45c": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_699e3b40ef234317aed8733d062d65dd",
+            "max": 10000,
+            "value": 50,
+            "step": 50,
+            "description": "現在のリスク資産残高（万円）"
+        }
+    },
+    "4f4a3626bfdd43279714644555436438": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "c37f9f5052c74bc5a185d0bcc137e607": {
+        "model_name": "FloatSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_4f4a3626bfdd43279714644555436438",
+            "max": 1,
+            "value": 0.2,
+            "step": 0.05,
+            "description": "新規貯蓄の預金・リスク資産配分"
+        }
+    },
+    "89d745960a7e49d8887a879cf23a0cc5": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "809d0295715043bebe334482e5515c90": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_89d745960a7e49d8887a879cf23a0cc5",
+            "children": [
+                "IPY_MODEL_ba82d947063a45779a6c86ce7ed7fd68",
+                "IPY_MODEL_2aca42887d2544718e761e2954b8a45c",
+                "IPY_MODEL_c37f9f5052c74bc5a185d0bcc137e607",
+                "IPY_MODEL_dfb3bc3c28dc4d65819ed63a179a706a"
+            ]
+        }
+    },
+    "a8c545d6f9ca47e5a4dee62084551e2d": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "dfb3bc3c28dc4d65819ed63a179a706a": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_a8c545d6f9ca47e5a4dee62084551e2d",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "fbc693c4faec49f0a9ddb9bb585be7f0": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "7f6ea3951e1746bebd3494394e071482": {
+        "model_name": "ToggleButtonModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_fbc693c4faec49f0a9ddb9bb585be7f0",
+            "description": "計算する",
+            "button_style": "success",
+            "value": true
+        }
+    },
+    "5c2077ab7b884633a3b68b8e7d12de10": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "f699c88d93184846af6de0a497f1a69e": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_5c2077ab7b884633a3b68b8e7d12de10",
+            "children": [
+                "IPY_MODEL_7f6ea3951e1746bebd3494394e071482",
+                "IPY_MODEL_f19fea7936df48e4bb4c2065d497fc31"
+            ]
+        }
+    },
+    "4bd8ef851c074124aefc8e4b6353676e": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "f19fea7936df48e4bb4c2065d497fc31": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_4bd8ef851c074124aefc8e4b6353676e",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "a000be89092a4477bd57e5bf7f845d68": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "bc8dd7ed160a4e909a900e5ffaab9dc7": {
+        "model_name": "ToggleButtonModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_a000be89092a4477bd57e5bf7f845d68",
+            "description": "計算する",
+            "button_style": "success",
+            "value": true
+        }
+    },
+    "77803900d7d042fd88fc21fdd1d55e3e": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "3a93cefb719147c39ba648ea9c3af703": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_77803900d7d042fd88fc21fdd1d55e3e",
+            "children": [
+                "IPY_MODEL_bc8dd7ed160a4e909a900e5ffaab9dc7",
+                "IPY_MODEL_87295d68c138444b99d08e06cdbfb42e"
+            ]
+        }
+    },
+    "f5f201f58cd44ebcbc2c0e9f0deb4bf3": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "87295d68c138444b99d08e06cdbfb42e": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_f5f201f58cd44ebcbc2c0e9f0deb4bf3",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "179e804c06c94748bb1befec2f714630": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "b31264896f7d4081a691cffb91097f07": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_179e804c06c94748bb1befec2f714630",
+            "min": 18,
+            "max": 60,
+            "value": 30,
+            "description": "第1子"
+        }
+    },
+    "c9479cc359ef41b28277bfa4c0c45e13": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "3360b2f2dbc64ec0bedbc4ae9bcbddd3": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_c9479cc359ef41b28277bfa4c0c45e13",
+            "children": [
+                "IPY_MODEL_b31264896f7d4081a691cffb91097f07",
+                "IPY_MODEL_2bb75bbf8def4853a34949f68be6230b"
+            ]
+        }
+    },
+    "8f08265cb900491193a3a94ce6913d68": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "2bb75bbf8def4853a34949f68be6230b": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_8f08265cb900491193a3a94ce6913d68",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "1cbbc283bef64b4a969e8d82a7fc6350": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "71806866c6d94f428529e43d52a7632c": {
+        "model_name": "IntSliderModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "layout": "IPY_MODEL_1cbbc283bef64b4a969e8d82a7fc6350",
+            "min": 18,
+            "max": 60,
+            "value": 34,
+            "description": "第2子"
+        }
+    },
+    "26382c1eff2f47a0b121b9beb7d723e3": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "1926978097db4b458d417947bc7f9b8d": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_26382c1eff2f47a0b121b9beb7d723e3",
+            "children": [
+                "IPY_MODEL_71806866c6d94f428529e43d52a7632c",
+                "IPY_MODEL_c6c208e0995449a2a07b7d8a4ef43a55"
+            ]
+        }
+    },
+    "338dc99e36c04266a3981c6481b969bd": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "c6c208e0995449a2a07b7d8a4ef43a55": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_338dc99e36c04266a3981c6481b969bd",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "c142d4175f294496a8ca64b15347f1dd": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "6361a873b89647a3887111203d8dee22": {
+        "model_name": "SelectMultipleModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_options_labels": [
+                "小",
+                "中",
+                "高",
+                "大"
+            ],
+            "layout": "IPY_MODEL_c142d4175f294496a8ca64b15347f1dd",
+            "description": "第1子",
+            "value": []
+        }
+    },
+    "da0ef007b31345e3b07a21b970c39bee": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "6381928b756a4b12b5dd0529277a0e47": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_da0ef007b31345e3b07a21b970c39bee",
+            "children": [
+                "IPY_MODEL_6361a873b89647a3887111203d8dee22",
+                "IPY_MODEL_69862c3f353e4e4785022c2542b42cb3"
+            ]
+        }
+    },
+    "aeb0ab9b43c94445978fe91758f2bffe": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "69862c3f353e4e4785022c2542b42cb3": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_aeb0ab9b43c94445978fe91758f2bffe",
+            "_model_module": "jupyter-js-widgets"
+        }
+    },
+    "f949e5bd449244559af5d10679103d87": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "2ec6075c3fc44b10832fe602df3f1bd1": {
+        "model_name": "SelectMultipleModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_options_labels": [
+                "小",
+                "中",
+                "高",
+                "大"
+            ],
+            "layout": "IPY_MODEL_f949e5bd449244559af5d10679103d87",
+            "description": "第2子",
+            "value": []
+        }
+    },
+    "00d8e98fb9164eb5bd0e7bc114a462ab": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "8d7b08f47fed4a6fae6a5c2ecffcdf87": {
+        "model_name": "VBoxModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_dom_classes": [
+                "widget-interact"
+            ],
+            "layout": "IPY_MODEL_00d8e98fb9164eb5bd0e7bc114a462ab",
+            "children": [
+                "IPY_MODEL_2ec6075c3fc44b10832fe602df3f1bd1",
+                "IPY_MODEL_42ce9198e1b34369a1bbbeb864f2ca09"
+            ]
+        }
+    },
+    "13a404fcefaf4453bd13ae64a1524d28": {
+        "model_name": "LayoutModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {}
+    },
+    "42ce9198e1b34369a1bbbeb864f2ca09": {
+        "model_name": "OutputModel",
+        "model_module": "jupyter-js-widgets",
+        "model_module_version": "*",
+        "state": {
+            "_view_module": "jupyter-js-widgets",
+            "_dom_classes": [],
+            "msg_throttle": 1,
+            "_model_module_version": "*",
+            "_view_module_version": "*",
+            "layout": "IPY_MODEL_13a404fcefaf4453bd13ae64a1524d28",
+            "_model_module": "jupyter-js-widgets"
+        }
+    }
+}
